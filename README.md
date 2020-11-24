@@ -8,6 +8,6 @@ Civil Matters is a ...
 
 ## Game Media
 
-![Gameview](https://github.com/ExperimentalVibes/Gameheads2020/blob/main/Assets/Resources/media/development/camera-view.png)
+![Gameview](https://github.com/ExperimentalVibes/Gameheads2020/blob/main/Assets/Resources/media/development/game-view.png)
 
 ![CameraView](https://github.com/ExperimentalVibes/Gameheads2020/blob/main/Assets/Resources/media/development/camera-view.png)
